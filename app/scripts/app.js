@@ -5,7 +5,7 @@
 // the 2nd parameter is an array of 'requires'
 // 'carma.services' is found in services.js
 // 'carma.controllers' is found in controllers.js
-angular.module('carma', ['ionic', 'carma.controllers', 'carma.services', 'leaflet-directive'])
+angular.module('carma', ['ionic', 'carma.controllers', 'carma.services', 'carma.directives'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {

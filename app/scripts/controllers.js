@@ -1,9 +1,10 @@
-angular.module('carma.controllers', ['leaflet-directive'])
+angular.module('carma.controllers', [])
 
-.controller('DashCtrl', function($scope, Spaces, $http) {
+.controller('DashCtrl', function($scope, Spaces, $http, $rootScope) {
 
   var success = function(position) {
-    $scope.center = [position.coords.latitude, position.coords.longitude];
+    $rootScope.center = [position.coords.latitude, position.coords.longitude];
+    $scope.$emit('positionCoordinated');
   }
 
   navigator.geolocation.getCurrentPosition(success);

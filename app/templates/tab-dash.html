@@ -1,7 +1,6 @@
 <ion-view view-title="Dashboard">
   <ion-content class="padding">
-    <div map class="map" style="width: 100%; height: 80vh;"></div>
-    {{center}}
+    <div carma-map class="map" style="width: 100%; height: 80vh;"></div>
     <div class="list-card" ng-repeat="feature in features">
       <div class="item item-divider">{{feature.geometry.coordinates}}</div>
       <div class="item item-body">{{feature.properties}}</div>
