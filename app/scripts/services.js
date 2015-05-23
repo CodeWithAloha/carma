@@ -1,7 +1,6 @@
 angular.module('carma.services', [])
   .factory('Spaces', function($http) {
     // Might use a resource here that returns a JSON array
-
     var spaces;
 
     return {
