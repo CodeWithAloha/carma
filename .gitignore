@@ -1,2 +1,8 @@
 bower_components
 node_modules
+.sass-cache
+.temp
+www
+platforms
+plugins
+resources
