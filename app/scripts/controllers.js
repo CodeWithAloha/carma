@@ -2,9 +2,19 @@ angular.module('carma.controllers', [])
 
 .controller('DashCtrl', function($scope, Spaces, $http, $rootScope) {
 
+  var ref = new Firebase('https://carma.firebaseio.com/checkins');
+  $scope.checkins = $firebaseArray(ref);
+
   var success = function(position) {
     $rootScope.center = [position.coords.latitude, position.coords.longitude];
     $scope.$emit('positionCoordinated');
+    $scope.checkins.$add({
+      latitude: position.coords.latitude,
+      longitude: position.coords.longitude,
+      timestamp: Firebase.ServerValue.TIMESTAMP
+    });
+
+    $scope.center = [position.coords.latitude, position.coords.longitude];
   }
 
   navigator.geolocation.getCurrentPosition(success);
@@ -15,6 +25,10 @@ angular.module('carma.controllers', [])
         $scope.$emit('dataLoaded');
         $scope.features = data.features;
     });
+
+  $scope.checkins.$watch(function(e) {
+    console.log('Event: ' + e.event + ', Key: ' + e.key);
+  });
 })
 
 .controller('SpacesCtrl', function($scope, Spaces) {
