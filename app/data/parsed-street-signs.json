@@ -1,0 +1,758 @@
+[
+    {
+        "coordinates": [
+            -157.86323688823313,
+            21.309647849672906
+        ],
+        "sign_text": "SPEED LIMIT [25] (R2-1)"
+    },
+    {
+        "coordinates": [
+            -157.8629855210746,
+            21.309737605833863
+        ],
+        "sign_text": "1 HR PARKING [7 AM TO 3:30 PM MON THRU FRI, 7 AM TO 6PM SATURDAYS EXCEPT SUNDAYS STATE HOLIDAYS] (R7-108)TOW-AWAY ZONE [3:30 PM TO 5:30 PM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86277660090315,
+            21.30981735468065
+        ],
+        "sign_text": "FREIGHT LOADING ZONE - [7:00 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 4:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R9)TOW-AWAY ZONE [3:30 PM TO 5:30 PM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86262567708079,
+            21.30987519016138
+        ],
+        "sign_text": "NO [RIGHT] TURN ON RED (R10-11a)"
+    },
+    {
+        "coordinates": [
+            -157.86260020022183,
+            21.30987737775034
+        ],
+        "sign_text": "ONE WAY - Left (R6-1L)"
+    },
+    {
+        "coordinates": [
+            -157.8624119547194,
+            21.30996315378803
+        ],
+        "sign_text": "NO [RIGHT] TURN ON RED (R10-11a)"
+    },
+    {
+        "coordinates": [
+            -157.86185452398956,
+            21.310292352125945
+        ],
+        "sign_text": "SPEED LIMIT [25] (R2-1)"
+    },
+    {
+        "coordinates": [
+            -157.86174166698424,
+            21.310359151243954
+        ],
+        "sign_text": "TOW-AWAY ZONE [6:30 AM TO 5:30 PM EXCEPT SATURDAYS SUNDAYS AND HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.8615160842055,
+            21.310477987881836
+        ],
+        "sign_text": "ONE WAY - Right (R6-1R)ONE WAY - Left (R6-1L)"
+    },
+    {
+        "coordinates": [
+            -157.86150692751266,
+            21.31050390018064
+        ],
+        "sign_text": "[EXCEPT BIKES] plaque (R3 P)NO TURNS (R3-3)6\" [BETHEL ST 1100>] (D3-1)6\" [S HOTEL ST 40>] (D3-1)"
+    },
+    {
+        "coordinates": [
+            -157.86115669720942,
+            21.310695889105585
+        ],
+        "sign_text": "TOW-AWAY ZONE [3:30 PM TO 5:30 PM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)FREIGHT LOADING ZONE - [7:00 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 4:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.8610918694413,
+            21.310731294338172
+        ],
+        "sign_text": "TOW-AWAY ZONE [3:30 PM TO 5:30 PM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)1 HR PARKING [8:30 AM TO 6:00 PM MON THRU FRI, 7:00 AM TO 6:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R7-108)"
+    },
+    {
+        "coordinates": [
+            -157.86088663317005,
+            21.31085540269343
+        ],
+        "sign_text": "TOW-AWAY ZONE [3:30 PM TO 5:30 PM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)ONE WAY - Left (R6-1L)FREIGHT LOADING ZONE - [7:00 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 4:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86079158025427,
+            21.310912894501758
+        ],
+        "sign_text": "STOP (R1-1)"
+    },
+    {
+        "coordinates": [
+            -157.86061676035507,
+            21.31103713015957
+        ],
+        "sign_text": "TOW-AWAY ZONE [3:30 PM TO 5:30 PM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)FREIGHT LOADING ZONE - [7:00 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 4:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86050139549437,
+            21.31111254537067
+        ],
+        "sign_text": "TOW-AWAY ZONE [3:30 PM TO 5:30 PM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)1 HR PARKING [7AM TO 3:30 PM MON TO FRI, 7:00 AM TO 6:00 PM SATURDAYS EXCEPT SUNDAYS STATE HOLIDAYS] (R7-108)"
+    },
+    {
+        "coordinates": [
+            -157.86036789995438,
+            21.311207317123095
+        ],
+        "sign_text": "TOW-AWAY ZONE [3:30 PM TO 5:30 PM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)FREIGHT LOADING ZONE - [7:00 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 4:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.8603225063184,
+            21.31124388798064
+        ],
+        "sign_text": "ONE WAY - Left (R6-1L)"
+    },
+    {
+        "coordinates": [
+            -157.8600694124105,
+            21.311431692316013
+        ],
+        "sign_text": "Official Bus Stop"
+    },
+    {
+        "coordinates": [
+            -157.85995447628986,
+            21.311519662517096
+        ],
+        "sign_text": "TOW-AWAY ZONE plaque (R7- 201aP) (FADED NOTED TO DTS)NO PARKING ANYTIME (R7) (FADED NOTED TO DTS)"
+    },
+    {
+        "coordinates": [
+            -157.85983966009925,
+            21.31159671737328
+        ],
+        "sign_text": "TOW-AWAY ZONE plaque (R7- 201aP)NO PARKING ANYTIME (R7)"
+    },
+    {
+        "coordinates": [
+            -157.85988940233523,
+            21.31170451321716
+        ],
+        "sign_text": "NO [LEFT] TURN ON RED (R10-11a)6\" [S BERETANIA ST 30>] (D3-1)"
+    },
+    {
+        "coordinates": [
+            -157.86005566689886,
+            21.311584713897215
+        ],
+        "sign_text": "NO PARKING ANYTIME (R7)"
+    },
+    {
+        "coordinates": [
+            -157.86017711114172,
+            21.311502567759486
+        ],
+        "sign_text": "1 HR PARKING [7:00 AM TO 6:00 PM EXCEPT SUNDAYS AND STATE HOLIDAYS] (R7-108)NO PARKING HERE TO CORNER (R7)"
+    },
+    {
+        "coordinates": [
+            -157.86033856869193,
+            21.311394330342218
+        ],
+        "sign_text": "ONE WAY - Right (R6-1R)"
+    },
+    {
+        "coordinates": [
+            -157.86040390402553,
+            21.311345695890527
+        ],
+        "sign_text": "NO PARKING ANYTIME (R7)STOP (R1-1)"
+    },
+    {
+        "coordinates": [
+            -157.86054226650364,
+            21.31123615933865
+        ],
+        "sign_text": "1 HR PARKING [7 AM TO 6 PM EXCEPT SUNDAYS AND HOLIDAYS] (R7-108)\n"
+    },
+    {
+        "coordinates": [
+            -157.86061387146995,
+            21.31118223909353
+        ],
+        "sign_text": "LOADING ZONE - [MON THRU SAT 7AM - 4PM EXCEPT HOLIDAYS] (R7)"
+    },
+    {
+        "coordinates": [
+            -157.86065494655546,
+            21.31116261776504
+        ],
+        "sign_text": "SPEED LIMIT [25] (R2-1)"
+    },
+    {
+        "coordinates": [
+            -157.8608120893046,
+            21.311048255263426
+        ],
+        "sign_text": "6\" [PAUAHI ST 40>] (D3-1)6\" [BETHEL ST 1140>] (D3-1)"
+    },
+    {
+        "coordinates": [
+            -157.86107789133152,
+            21.31086993450003
+        ],
+        "sign_text": "NO STOPPING, STANDING, LOADING, UNLOADING, w/No Parking and Tow-Away symbols (R8)"
+    },
+    {
+        "coordinates": [
+            -157.86116000077607,
+            21.310827462451897
+        ],
+        "sign_text": "NO STOPPING, STANDING, LOADING, UNLOADING, w/No Parking and Tow-Away symbols (R8)"
+    },
+    {
+        "coordinates": [
+            -157.8614511261684,
+            21.31067335079466
+        ],
+        "sign_text": "BEGIN plaque (R7-P)NO STOPPING, STANDING, LOADING, UNLOADING, w/No Parking and Tow-Away symbols (R8)"
+    },
+    {
+        "coordinates": [
+            -157.86151156330786,
+            21.310639829464673
+        ],
+        "sign_text": "1 HR PARKING [7AM TO 6PM EXCEPT SUNDAYS AND STATE HOLIDAYS] (R7-108)"
+    },
+    {
+        "coordinates": [
+            -157.8615789180325,
+            21.310597894976997
+        ],
+        "sign_text": "END plaque (R7-P)NO STOPPING, STANDING, LOADING, UNLOADING, w/No Parking and Tow-Away symbols (R8)"
+    },
+    {
+        "coordinates": [
+            -157.86162794748446,
+            21.310561618708178
+        ],
+        "sign_text": "[EXCEPT BIKES] plaque (R3 P)NO TURNS (R3-3)"
+    },
+    {
+        "coordinates": [
+            -157.8617490559197,
+            21.310496271316058
+        ],
+        "sign_text": "NO PARKING ANYTIME (R7)6\" [S HOTEL ST 40>] (D3-1)6\" [BETHEL ST 1100>] (D3-1)"
+    },
+    {
+        "coordinates": [
+            -157.86187007568893,
+            21.31042533247758
+        ],
+        "sign_text": "NO PARKING ANYTIME (R7)"
+    },
+    {
+        "coordinates": [
+            -157.86218271565966,
+            21.31024441554752
+        ],
+        "sign_text": "NO PARKING ANYTIME (R7)"
+    },
+    {
+        "coordinates": [
+            -157.86221466686607,
+            21.31022626382551
+        ],
+        "sign_text": "PARKING Area w/[diagonal left arrow] (D4-1)ONE WAY - Right (R6-1R)"
+    },
+    {
+        "coordinates": [
+            -157.86235171061705,
+            21.310153458241384
+        ],
+        "sign_text": "NO PARKING ANYTIME (R7)"
+    },
+    {
+        "coordinates": [
+            -157.86252344011447,
+            21.310066734462406
+        ],
+        "sign_text": "ONE WAY - Right (R6-1R)"
+    },
+    {
+        "coordinates": [
+            -157.8627741702644,
+            21.309938303066104
+        ],
+        "sign_text": "FREIGHT LOADING ZONE - [MON THRU SAT 7AM - 4PM INCLUDING STATE HOLIDAYS] (R9)CAMERA"
+    },
+    {
+        "coordinates": [
+            -157.8629291549534,
+            21.30987961302819
+        ],
+        "sign_text": "END plaque (R7-P)TOW-AWAY ZONE plaque (R7- 201aP)NO PARKING, STOPPING, STANDING, LOADING, UNLOADING (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86329473649553,
+            21.309742042223004
+        ],
+        "sign_text": "ONE WAY - Right (R6-1R)6\" [MERCHANT ST 10>] (D3-1)6\" [BETHEL ST 900>] (D3-1)"
+    },
+    {
+        "coordinates": [
+            -157.86345972663514,
+            21.30968042588162
+        ],
+        "sign_text": "NO PARKING ANYTIME (R7)"
+    },
+    {
+        "coordinates": [
+            -157.86356778475385,
+            21.30963357090133
+        ],
+        "sign_text": "[Right-Turn, Through] Lane Use (R3-8c)ONE WAY - Right (R6-1R)"
+    },
+    {
+        "coordinates": [
+            -157.8637023240542,
+            21.309581711976627
+        ],
+        "sign_text": "NO PARKING ANYTIME (R7)"
+    },
+    {
+        "coordinates": [
+            -157.86390342588936,
+            21.30952934328474
+        ],
+        "sign_text": "[BETHEL STREET Through, BETHEL STREET Through, MERCHANT STREET Right PUBLIC PARKING Right, PUBLICK PARKING Right ONLY] (D)"
+    },
+    {
+        "coordinates": [
+            -157.86387526946228,
+            21.30939483452272
+        ],
+        "sign_text": "[BETHEL STREET Through, BETHEL STREET Through, MERCHANT STREET Right PUBLIC PARKING Right, PUBLICK PARKING Right ONLY] (D)"
+    },
+    {
+        "coordinates": [
+            -157.86384814356984,
+            21.309403344498858
+        ],
+        "sign_text": "NO STOPPING, STANDING, LOADING, UNLOADING, w/No Parking and Tow-Away symbols (R8)"
+    },
+    {
+        "coordinates": [
+            -157.8634200789719,
+            21.309577831734558
+        ],
+        "sign_text": "TOW-AWAY ZONE plaque (R7- 201aP)NO PARKING, STOPPING, STANDING, LOADING, UNLOADING (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86339121692836,
+            21.309590073713444
+        ],
+        "sign_text": "[Right-Turn, Through] Lane Use (R3-8c)6\" [MERCHANT ST 40>] (D3-1)"
+    },
+    {
+        "coordinates": [
+            -157.86399769880703,
+            21.31000804624967
+        ],
+        "sign_text": "[Left-Turn, Left-Turn, Right-Turn] Lane Use (R3-8c)"
+    },
+    {
+        "coordinates": [
+            -157.86375817840374,
+            21.310105823406097
+        ],
+        "sign_text": "TOW-AWAY ZONE plaque (R7- 201aP)NO PARKING ANYTIME (R7)ONE WAY - Right (R6-1R)"
+    },
+    {
+        "coordinates": [
+            -157.8636956002069,
+            21.310117488984382
+        ],
+        "sign_text": "ONE WAY - Left (R6-1L)"
+    },
+    {
+        "coordinates": [
+            -157.86352860008327,
+            21.3101943017372
+        ],
+        "sign_text": "ONE WAY - Right (R6-1R)Right downward diagonal arrow plaque (W16-7P)Pedestrian (W11-2)DO NOT ENTER (R5-1)[MERCHANT ST BEGIN> ] w/Chinese Characters (D3-1)[NU'UANU AV 900> ] w/Chinese Characters (D3-1)"
+    },
+    {
+        "coordinates": [
+            -157.86350283653707,
+            21.31020379211713
+        ],
+        "sign_text": "1 HR PARKING [8:30 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 6:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R7-108)TOW-AWAY ZONE [6:30 AM TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.8633112480927,
+            21.31028990947186
+        ],
+        "sign_text": "SPEED LIMIT [25] (R2-1)"
+    },
+    {
+        "coordinates": [
+            -157.86318169763234,
+            21.310343290581944
+        ],
+        "sign_text": "1 HR PARKING [8:30 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 6:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R7-108)TOW-AWAY ZONE [6:30 AM TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.8631036784224,
+            21.31037274847891
+        ],
+        "sign_text": "FREIGHT LOADING ZONE - [8:30 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 4:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R9)TOW-AWAY ZONE [6:30 AM TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86300871901324,
+            21.31041304889847
+        ],
+        "sign_text": "AHEAD plaque (W16-9P)Pedestrian (W11-2)"
+    },
+    {
+        "coordinates": [
+            -157.86297210794865,
+            21.310430953266273
+        ],
+        "sign_text": "ONE WAY - Left (R6-1L)"
+    },
+    {
+        "coordinates": [
+            -157.8629315196547,
+            21.310433012373775
+        ],
+        "sign_text": "ONE WAY - Right (R6-1R)"
+    },
+    {
+        "coordinates": [
+            -157.86290978870522,
+            21.310428754447376
+        ],
+        "sign_text": "[NU'UANU AV 1000> ] w/Chinese Characters (D3-1)[N. KING ST BEGIN> ] w/Chinese Characters (D3-1)"
+    },
+    {
+        "coordinates": [
+            -157.86279828975012,
+            21.31053459847118
+        ],
+        "sign_text": "ONE WAY - Right (R6-1R)"
+    },
+    {
+        "coordinates": [
+            -157.86271409974125,
+            21.310593660379244
+        ],
+        "sign_text": "[Left-Turn, Left-Turn/Through, Through] Lane Use (R3-8c)"
+    },
+    {
+        "coordinates": [
+            -157.8625174595973,
+            21.31070204333329
+        ],
+        "sign_text": "TOW-AWAY ZONE plaque (R7- 201aP)NO PARKING ANYTIME (R7)"
+    },
+    {
+        "coordinates": [
+            -157.86217686762942,
+            21.310894219376642
+        ],
+        "sign_text": "TOW-AWAY ZONE plaque (R7- 201aP)NO PARKING ANYTIME (R7)"
+    },
+    {
+        "coordinates": [
+            -157.8620812467073,
+            21.310942578706726
+        ],
+        "sign_text": "NO TURNS (R3-3)[EXCEPT BIKES AND CITY BUSES] plaque (R3 P)"
+    },
+    {
+        "coordinates": [
+            -157.86202954934913,
+            21.31093855380181
+        ],
+        "sign_text": "[S HOTEL ST BEGIN> ] w/Chinese Characters (D3-1)[NU'UANU AV 1100> ] w/Chinese Characters (D3-1)"
+    },
+    {
+        "coordinates": [
+            -157.86195417232557,
+            21.31102617768644
+        ],
+        "sign_text": "vertical ONE WAY - Left (R6- 2L)vertical ONE WAY - Right (R6- 2R)Official Bus Stop w/Routes"
+    },
+    {
+        "coordinates": [
+            -157.86179862246547,
+            21.311114155701013
+        ],
+        "sign_text": "TOW-AWAY ZONE plaque (R7- 201aP)NO PARKING HERE TO CORNER (R7)"
+    },
+    {
+        "coordinates": [
+            -157.8617312056305,
+            21.311156900071047
+        ],
+        "sign_text": "1 HR PARKING [8:30 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 6:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R7-108)TOW-AWAY ZONE [6:30 AM TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86170599511829,
+            21.311168017370214
+        ],
+        "sign_text": "FREIGHT LOADING ZONE - [8:30 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 4:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R9)END plaque (R7-P)4PM - 2AM plaque (R7-P)NO PARKING 3-MINUTE PASSENGER LOADING ZONE (R7)"
+    },
+    {
+        "coordinates": [
+            -157.86153085826808,
+            21.311267142553294
+        ],
+        "sign_text": "BEGIN plaque (R7-P)NO PARKING 3-MINUTE PASSENGER LOADING ZONE 4PM TO 2AM (R7)"
+    },
+    {
+        "coordinates": [
+            -157.86143295830428,
+            21.311319568696632
+        ],
+        "sign_text": "FREIGHT LOADING ZONE - [8:30 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 4:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R9)TOW-AWAY ZONE [6:30 AM TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86133641188363,
+            21.311376686444085
+        ],
+        "sign_text": "SPEED LIMIT [25] (R2-1)[S. PAUAHI ST BEGIN> ] w/Chinese Characters (D3-1)[NU'UANU AV 1150> ] w/Chinese Characters (D3-1)"
+    },
+    {
+        "coordinates": [
+            -157.86117121051996,
+            21.311443406253094
+        ],
+        "sign_text": "STOP (R1-1)ONE WAY - Left (R6-1L)ONE WAY - Right (R6-1R)"
+    },
+    {
+        "coordinates": [
+            -157.86107764614403,
+            21.311552471834958
+        ],
+        "sign_text": "1 HR PARKING [8:30 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 6:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R7-108)TOW-AWAY ZONE [6:30 AM TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86049687833005,
+            21.311856270803755
+        ],
+        "sign_text": "ONE WAY - Left (R6-1L)"
+    },
+    {
+        "coordinates": [
+            -157.86034483579107,
+            21.311949274852587
+        ],
+        "sign_text": "NO PARKING ANYTIME (R7)"
+    },
+    {
+        "coordinates": [
+            -157.86032827209382,
+            21.312094761004584
+        ],
+        "sign_text": "Official Bus Stop"
+    },
+    {
+        "coordinates": [
+            -157.8604818176159,
+            21.312005923815452
+        ],
+        "sign_text": "SATURDAYS plaque (R7-P)FREIGHT LOADING ZONE - [8:30 AM TO 4:00 PM MON THRU FRI, EXCEPT SUNDAYS AND STATE HOLIDAYS] (R9)TOW-AWAY ZONE [6:30 TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86062895352225,
+            21.31191128680706
+        ],
+        "sign_text": "SATURDAYS 7AM plaque (R7-P)FREIGHT LOADING ZONE - [8:30 AM TO 4:00 PM MON THRU FRI, EXCEPT SUNDAYS AND STATE HOLIDAYS] (R9)TOW-AWAY ZONE [6:30 TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.8607033401421,
+            21.311865785454994
+        ],
+        "sign_text": "BIKE ROUTE w/symbol (D11-1)[CHAPLAIN LN BEGIN> ] w/Chinese Characters (D3-1)[NU'UANU AV 1170> ] w/Chinese Characters (D3-1)"
+    },
+    {
+        "coordinates": [
+            -157.86085636605495,
+            21.311771970882752
+        ],
+        "sign_text": "1 HR PARKING [8:30 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 6:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R7-108)TOW-AWAY ZONE [6:30 AM TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86095123938514,
+            21.31170708808707
+        ],
+        "sign_text": "SPEED LIMIT [25] (R2-1)"
+    },
+    {
+        "coordinates": [
+            -157.8611442844981,
+            21.311616596395606
+        ],
+        "sign_text": "1 HR PARKING [8:30 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 6:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R7-108)TOW-AWAY ZONE [6:30 AM TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86123508746246,
+            21.311573450601124
+        ],
+        "sign_text": "[NU'UANU AV 1150> ] w/Chinese Characters (D3-1)[N PAUAHI ST BEGIN> ] w/Chinese Characters (D3-1)"
+    },
+    {
+        "coordinates": [
+            -157.86133479159193,
+            21.311545355000995
+        ],
+        "sign_text": "STOP (R1-1)ONE WAY - Left (R6-1L)ONE WAY - Left (R6-1L)"
+    },
+    {
+        "coordinates": [
+            -157.86151663503207,
+            21.311409897844182
+        ],
+        "sign_text": "Official Bus Stop"
+    },
+    {
+        "coordinates": [
+            -157.8616190783147,
+            21.311358544600143
+        ],
+        "sign_text": "FREIGHT LOADING ZONE - [8:30 AM TO 4PM MON THRU FRI, 7:00 AM TO 4:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R9)TOW-AWAY ZONE [6:30 AM TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86199464947808,
+            21.311147094836993
+        ],
+        "sign_text": "[NU'UANU AV 1100> ] w/Chinese Characters (D3-1)[N. HOTEL ST BEGIN> ] w/Chinese Characters (D3-1)"
+    },
+    {
+        "coordinates": [
+            -157.86213564509808,
+            21.311114046305875
+        ],
+        "sign_text": "vertical ONE WAY - Right (R6- 2R)vertical ONE WAY - Left (R6- 2L)"
+    },
+    {
+        "coordinates": [
+            -157.8621442702731,
+            21.311049767581466
+        ],
+        "sign_text": "NO TURNS (R10-11a)EXCEPT CITY BUSES AND BIKES (R5-3)"
+    },
+    {
+        "coordinates": [
+            -157.86233731008622,
+            21.310935249386215
+        ],
+        "sign_text": "FREIGHT LOADING ZONE - [8:30 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 4:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R9)TOW-AWAY ZONE [6:30 AM TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86247226616578,
+            21.310859135014557
+        ],
+        "sign_text": "1 HR PARKING [8:30 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 6:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R7-108)TOW-AWAY ZONE [6:30 AM TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.8626460515877,
+            21.31076393690514
+        ],
+        "sign_text": "FREIGHT LOADING ZONE - [8:30 AM TO 4PM MON THRU FRI, 7:00 AM TO 4:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R9)TOW-AWAY ZONE [6:30 AM TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86279148630928,
+            21.31068462848396
+        ],
+        "sign_text": "1 HR PARKING [8:30 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 6:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R7-108)TOW-AWAY ZONE [6:30 AM TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86288722954563,
+            21.310658293964284
+        ],
+        "sign_text": "ONE WAY - Right (R6-1R)TOW-AWAY ZONE [6:30 AM TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)[N KING ST BEGIN> ] w/Chinese Characters (D3-1)[NU'UANU AV 1000> ] w/Chinese Characters (D3-1)"
+    },
+    {
+        "coordinates": [
+            -157.86305421040998,
+            21.310534849877897
+        ],
+        "sign_text": "ONE WAY - Left (R6-1L)"
+    },
+    {
+        "coordinates": [
+            -157.86314574735817,
+            21.310494020036508
+        ],
+        "sign_text": "1 HR PARKING [8:30 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 6:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R7-108)TOW-AWAY ZONE [6:30 AM TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86320465706717,
+            21.31046532089993
+        ],
+        "sign_text": "AHEAD plaque (W16-9P)Pedestrian (W11-2)"
+    },
+    {
+        "coordinates": [
+            -157.86330515164462,
+            21.310420280694437
+        ],
+        "sign_text": "1 HR PARKING [8:30 AM TO 3:30 PM MON THRU FRI, 7:00 AM TO 6:00 PM SATURDAYS EXCEPT SUNDAYS AND STATE HOLIDAYS] (R7-108)TOW-AWAY ZONE [6:30 AM TO 8:30 AM EXCEPT SATURDAYS SUNDAYS AND STATE HOLIDAYS] (R9)"
+    },
+    {
+        "coordinates": [
+            -157.86335583701924,
+            21.3104012633744
+        ],
+        "sign_text": "TOW-AWAY ZONE plaque (R7- 201aP)NO PARKING HERE TO CORNER (R7)"
+    },
+    {
+        "coordinates": [
+            -157.86340399616398,
+            21.310377579165
+        ],
+        "sign_text": "SPEED LIMIT [25] (R2-1)"
+    },
+    {
+        "coordinates": [
+            -157.8635524178147,
+            21.310323632906414
+        ],
+        "sign_text": "ONE WAY - Left (R6-1L
+
+...

@@ -1,15 +1,26 @@
-angular.module('starter.controllers', [])
+angular.module('carma.controllers', ['leaflet-directive'])
 
-.controller('DashCtrl', function($scope) {})
+.controller('DashCtrl', function($scope, Spaces, $http) {
 
-.controller('ChatsCtrl', function($scope, Chats) {
-  $scope.chats = Chats.all();
-  $scope.remove = function(chat) {
-    Chats.remove(chat);
+  var success = function(position) {
+    $scope.center = [position.coords.latitude, position.coords.longitude];
   }
+
+  navigator.geolocation.getCurrentPosition(success);
+
+  $http.get('data/parking-signs.json')
+    .success(function(data) {
+        Spaces.set(data);
+        $scope.$emit('dataLoaded');
+        $scope.features = data.features;
+    });
 })
 
-.controller('ChatDetailCtrl', function($scope, $stateParams, Chats) {
+.controller('SpacesCtrl', function($scope, Spaces) {
+    console.log(Spaces.all());
+})
+
+.controller('ChatDetailCtrl', function($scope, $stateParams, Spaces) {
   $scope.chat = Chats.get($stateParams.chatId);
 })
 
