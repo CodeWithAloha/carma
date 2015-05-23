@@ -1,9 +1,17 @@
 <ion-view view-title="Dashboard">
   <ion-content class="padding">
-    <div carma-map class="map" style="width: 100%; height: 80vh;"></div>
-    <div class="list-card" ng-repeat="feature in features">
+    <div carma-map class="carma-map"></div>
+    <div class="carma-timer" carma-timer>
+      <section class="carma-timer-wrap">
+        <div class="carma-timer-time"><h2 class="carma-timer-hours">0</h2><p>Hours</p></div>
+        <div class="carma-timer-time"><h2 class="carma-timer-minutes">0</h2><p>Minutes</p></div>
+        <div class="carma-timer-time"><h2 class="carma-timer-seconds"></h2><p>Seconds</p></div>
+      </section>
+      <a href="#" class="carma-timer-button">Claim Carma</a>
+
+    <!--div class="list-card" ng-repeat="feature in features">
       <div class="item item-divider">{{feature.geometry.coordinates}}</div>
       <div class="item item-body">{{feature.properties}}</div>
-    </div>
+    </div-->
   </ion-content>
 </ion-view>

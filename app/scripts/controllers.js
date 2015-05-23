@@ -1,6 +1,6 @@
-angular.module('carma.controllers', [])
+angular.module('carma.controllers', ['firebase'])
 
-.controller('DashCtrl', function($scope, Spaces, $http, $rootScope) {
+.controller('DashCtrl', function($scope, Spaces, $http, $rootScope,  $firebaseArray) {
 
   var ref = new Firebase('https://carma.firebaseio.com/checkins');
   $scope.checkins = $firebaseArray(ref);
@@ -25,10 +25,6 @@ angular.module('carma.controllers', [])
         $scope.$emit('dataLoaded');
         $scope.features = data.features;
     });
-
-  $scope.checkins.$watch(function(e) {
-    console.log('Event: ' + e.event + ', Key: ' + e.key);
-  });
 })
 
 .controller('SpacesCtrl', function($scope, Spaces) {
