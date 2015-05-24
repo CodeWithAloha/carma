@@ -8,11 +8,43 @@
   font-smoothing: always;
   -webkit-font-smoothing: antialiased;
 }
+// .icon:before {
+//   color: white;
+// }
+//
 
 .carma {
+  &.drag {
+    .carma-timer {
+      opacity: 0;
+      pointer-events: none;
+    }
+    .carma-map-close {
+      opacity: 1;
+    }
+  }
   &-map {
       width: 100%;
       height: calc(100vh - 49px);
+      &-close {
+        position: absolute;
+        right: 10px;
+        top: 20px;
+        opacity: 0;
+        -webkit-transition: opacity 0.3s ease;
+        i {
+          span {
+            float: left;
+            width: 100%;
+          }
+          &:before {
+            color: black;
+            font-size: 32px;
+            position: relative;
+            left: 4px;
+          }
+        }
+      }
   }
   &-timer {
     position: fixed;
@@ -26,6 +58,7 @@
     top: 0;
     left: 0;
     text-align: center;
+    -webkit-transition: opacity 0.3s ease;
 
     &-button {
         position: absolute;
@@ -39,8 +72,9 @@
         font-size: 29px;
         text-decoration: none;
         @include josephin(100);
-        left: 25%;
-        left: right%;
+        left: 0;
+        right: 0;
+        max-width: 189px;
 
     }
 
@@ -78,12 +112,29 @@
         }
       }
     }
-    &-button {
-
-    }
   }
-  &-time {
-
+  &-carma {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    &-karma {
+      color: white;
+      @include josephin(100);
+      text-align: center;
+      p {
+        font-size: 48px;
+        line-height: 100px;
+        &:before {
+          content: "\f4b2";
+          margin-right: 8px;
+          font-family: "Ionicons";
+          font-size: 48px;
+          line-height: 100px;
+          color: white;
+        }
+      }
+    }
   }
 }
 

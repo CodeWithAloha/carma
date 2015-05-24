@@ -13,12 +13,18 @@ var app = angular.module('carma.directives', [])
               scope.map.setView($rootScope.center, 18);
             });
         });
+        document.querySelector('.carma-timer-button').addEventListener('click', function() {
+            document.querySelector('.carma').classList.add('drag');
+        });
+        document.querySelector('.carma-map-close').addEventListener('click', function() {
+            document.querySelector('.carma').classList.remove('drag');
+        });
       }
     }
   });
   app.directive('carmaTimer', function() {
     return function(scope, elm, attr)   {
-      var timeRemain = 800;
+      var timeRemain = 60;
       var timer = document.querySelector('.carma-timer-seconds');
       timer.textContent = timeRemain;
       setInterval(function(){
