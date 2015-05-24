@@ -1,7 +1,7 @@
 angular.module('carma.controllers', ['firebase'])
-.controller('DashCtrl', function($scope, Spaces, $http, $rootScope,  $firebaseArray, Restrictions) {
+.controller('DashCtrl', function($scope, Spaces, $http, $rootScope,  $firebaseArray, MockRestrictions) {
 
-  var service = Restrictions;
+  var service = MockRestrictions;
 
   var ref = new Firebase('https://carma.firebaseio.com/checkins');
   $scope.checkins = $firebaseArray(ref);
