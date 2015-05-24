@@ -1,5 +1,7 @@
 angular.module('carma.controllers', ['leaflet-directive', 'firebase'])
-.controller('DashCtrl', function($scope, Spaces, $http, $firebaseArray) {
+.controller('DashCtrl', function($scope, Spaces, $http, $firebaseArray, Restrictions) {
+  var service = Restrictions;
+
   var ref = new Firebase('https://carma.firebaseio.com/checkins');
   $scope.checkins = $firebaseArray(ref);
 
@@ -8,6 +10,11 @@ angular.module('carma.controllers', ['leaflet-directive', 'firebase'])
       latitude: position.coords.latitude,
       longitude: position.coords.longitude,
       timestamp: Firebase.ServerValue.TIMESTAMP
+    });
+
+    var canPark = service.canPark(position.coords.latitude, position.coords.longitude);
+    canPark.then(function (result) {
+      console.log(result);
     });
 
     $scope.center = [position.coords.latitude, position.coords.longitude];
@@ -21,11 +28,6 @@ angular.module('carma.controllers', ['leaflet-directive', 'firebase'])
         $scope.$emit('dataLoaded');
         $scope.features = data.features;
     });
-
-  console.log($scope.checkins);
-  $scope.checkins.$watch(function(e) {
-    console.log('Event: ' + e.event + ', Key: ' + e.key);
-  });
 })
 
 .controller('SpacesCtrl', function($scope, Spaces) {
