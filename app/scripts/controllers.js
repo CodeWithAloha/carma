@@ -1,8 +1,9 @@
 angular.module('carma.controllers', ['firebase'])
-.controller('DashCtrl', function($scope, Spaces, $http, $rootScope,  $firebaseArray, Restrictions) {
+.controller('DashCtrl', function($scope, Spaces, $http, $rootScope,  $firebaseArray, MockRestrictions) {
 
-  var service = Restrictions;
-  
+  var service = MockRestrictions;
+
+  var ref = new Firebase('https://carma.firebaseio.com/checkins');
   var success = function(position) {
     $rootScope.center = [position.coords.latitude, position.coords.longitude];
     $scope.$emit('positionCoordinated');

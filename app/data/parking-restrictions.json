@@ -432,52 +432,14 @@
             -157.85995447628986,
             21.311519662517096
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
             -157.85983966009925,
             21.31159671737328
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -491,26 +453,7 @@
             -157.86005566689886,
             21.311584713897215
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -551,26 +494,7 @@
             -157.86040390402553,
             21.311345695890527
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -604,7 +528,27 @@
             -157.86061387146995,
             21.31118223909353
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 1,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -673,7 +617,27 @@
             -157.8615789180325,
             21.310597894976997
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 1,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -687,78 +651,21 @@
             -157.8617490559197,
             21.310496271316058
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
             -157.86187007568893,
             21.31042533247758
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
             -157.86218271565966,
             21.31024441554752
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -772,26 +679,7 @@
             -157.86235171061705,
             21.310153458241384
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -826,26 +714,7 @@
             -157.86345972663514,
             21.30968042588162
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -859,26 +728,7 @@
             -157.8637023240542,
             21.309581711976627
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -927,26 +777,7 @@
             -157.86375817840374,
             21.310105823406097
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -1142,52 +973,14 @@
             -157.8625174595973,
             21.31070204333329
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
             -157.86217686762942,
             21.310894219376642
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -1274,10 +1067,29 @@
                     "FRIDAY"
                 ],
                 "inactive_days": [],
-                "time_limit": 0,
+                "time_limit": 1,
                 "time_period": [
                     830,
                     1530
+                ]
+            },
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY"
+                ],
+                "inactive_days": [
+                    "SATURDAY",
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 0,
+                "time_period": [
+                    630,
+                    830
                 ]
             }
         ]
@@ -1287,7 +1099,42 @@
             -157.86153085826808,
             21.311267142553294
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY"
+                ],
+                "inactive_days": [],
+                "time_limit": 1,
+                "time_period": [
+                    830,
+                    1530
+                ]
+            },
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY"
+                ],
+                "inactive_days": [
+                    "SATURDAY",
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 0,
+                "time_period": [
+                    630,
+                    830
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -1399,26 +1246,7 @@
             -157.86034483579107,
             21.311949274852587
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -1921,7 +1749,42 @@
             -157.86335583701924,
             21.3104012633744
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY"
+                ],
+                "inactive_days": [],
+                "time_limit": 1,
+                "time_period": [
+                    830,
+                    1530
+                ]
+            },
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY"
+                ],
+                "inactive_days": [
+                    "SATURDAY",
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 0,
+                "time_period": [
+                    630,
+                    830
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -1956,26 +1819,7 @@
             -157.8638036121411,
             21.310200830303263
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -2121,7 +1965,27 @@
             -157.8620684926322,
             21.31194809191558
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 1,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -2333,15 +2197,16 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
                     "SUNDAY",
                     "STATE HOLIDAYS"
                 ],
-                "inactive_days": [],
-                "time_limit": 0,
+                "time_limit": 1,
                 "time_period": [
-                    0,
-                    2400
+                    700,
+                    1800
                 ]
             }
         ]
@@ -2359,15 +2224,16 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
                     "SUNDAY",
                     "STATE HOLIDAYS"
                 ],
-                "inactive_days": [],
-                "time_limit": 0,
+                "time_limit": 1,
                 "time_period": [
-                    0,
-                    2400
+                    700,
+                    1800
                 ]
             }
         ]
@@ -2425,14 +2291,54 @@
             -157.862194377002,
             21.312002638750236
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 1,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
             -157.8623233629743,
             21.311922887264938
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 1,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -2507,7 +2413,27 @@
             -157.86308972366993,
             21.31147924681886
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 1,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -2571,10 +2497,7 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS"
+                    "SATURDAY"
                 ],
                 "inactive_days": [
                     "SUNDAY",
@@ -2759,7 +2682,27 @@
             -157.86222287801323,
             21.312597042495376
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 1,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -2849,15 +2792,16 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
                     "SUNDAY",
                     "STATE HOLIDAYS"
                 ],
-                "inactive_days": [],
-                "time_limit": 0,
+                "time_limit": 1,
                 "time_period": [
-                    0,
-                    2400
+                    700,
+                    1800
                 ]
             }
         ]
@@ -2922,7 +2866,27 @@
             -157.86187646502668,
             21.312938077530397
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 1,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -2984,7 +2948,27 @@
             -157.8626903442838,
             21.312446608824043
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 1,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -3122,26 +3106,7 @@
             -157.8645616050339,
             21.311321121672556
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -3197,52 +3162,14 @@
             -157.86475099851677,
             21.31318503645443
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
             -157.86453667133017,
             21.313353818823828
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -3277,26 +3204,7 @@
             -157.86399151473813,
             21.313552185739734
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -3360,10 +3268,34 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
                     "STATE HOLIDAYS"
+                ],
+                "time_limit": 1,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
+    },
+    {
+        "coordinates": [
+            -157.86318707942004,
+            21.313630069871966
+        ],
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
                 ],
                 "inactive_days": [
                     "SUNDAY",
@@ -3382,7 +3314,27 @@
             -157.8630801149552,
             21.31365487946925
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 1,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -3411,10 +3363,7 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS"
+                    "SATURDAY"
                 ],
                 "inactive_days": [
                     "SUNDAY",
@@ -3433,7 +3382,27 @@
             -157.86237113262152,
             21.31389335719285
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 1,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -3482,26 +3451,7 @@
             -157.8627296554491,
             21.313861667781893
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -3516,10 +3466,7 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS"
+                    "SATURDAY"
                 ],
                 "inactive_days": [
                     "SUNDAY",
@@ -3553,10 +3500,7 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS"
+                    "SATURDAY"
                 ],
                 "inactive_days": [
                     "SUNDAY",
@@ -3596,26 +3540,7 @@
             -157.86395602045383,
             21.31367053846473
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -3629,26 +3554,7 @@
             -157.86454709627134,
             21.31347500696615
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -3831,10 +3737,7 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS"
+                    "SATURDAY"
                 ],
                 "inactive_days": [
                     "SUNDAY",
@@ -3861,10 +3764,7 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS"
+                    "SATURDAY"
                 ],
                 "inactive_days": [
                     "SUNDAY",
@@ -3883,14 +3783,54 @@
             -157.86237408103457,
             21.31301290953733
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 2,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
             -157.86208030524745,
             21.312548766124717
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 2,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -3905,10 +3845,7 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS"
+                    "SATURDAY"
                 ],
                 "inactive_days": [
                     "SUNDAY",
@@ -3935,10 +3872,7 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS"
+                    "SATURDAY"
                 ],
                 "inactive_days": [
                     "SUNDAY",
@@ -3965,10 +3899,7 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS"
+                    "SATURDAY"
                 ],
                 "inactive_days": [
                     "SUNDAY",
@@ -3987,14 +3918,54 @@
             -157.86124749700045,
             21.311361053776892
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 2,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
             -157.86119920447956,
             21.311300206139737
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 2,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -4009,10 +3980,7 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS"
+                    "SATURDAY"
                 ],
                 "inactive_days": [
                     "SUNDAY",
@@ -4031,7 +3999,27 @@
             -157.8610198391941,
             21.311076057314388
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 2,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -4046,15 +4034,16 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
                     "SUNDAY",
                     "STATE HOLIDAYS"
                 ],
-                "inactive_days": [],
-                "time_limit": 0,
+                "time_limit": 2,
                 "time_period": [
-                    0,
-                    2400
+                    700,
+                    1800
                 ]
             }
         ]
@@ -4078,26 +4067,7 @@
             -157.86091011121374,
             21.31108748117133
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -4291,10 +4261,7 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS"
+                    "SATURDAY"
                 ],
                 "inactive_days": [],
                 "time_limit": 1,
@@ -4350,26 +4317,7 @@
             -157.86055062867175,
             21.312486559358458
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -4467,26 +4415,7 @@
             -157.86032292486294,
             21.312528921972326
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -4535,104 +4464,28 @@
             -157.86090483389083,
             21.31314824729393
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
             -157.86099513391815,
             21.313308105384916
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
             -157.861249471186,
             21.3135912641257
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
             -157.86145289513487,
             21.313758531731033
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -4646,26 +4499,7 @@
             -157.8616321273207,
             21.313954746714302
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -4686,45 +4520,7 @@
             -157.86371122171082,
             21.31057642838748
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY"
-                ],
-                "inactive_days": [
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "time_limit": 0,
-                "time_period": [
-                    630,
-                    1730
-                ]
-            },
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -4893,23 +4689,7 @@
             -157.8628101786253,
             21.30886265302004
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    830,
-                    1600
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -4968,16 +4748,28 @@
                     "TUESDAY",
                     "WEDNESDAY",
                     "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
+                    "FRIDAY"
                 ],
                 "inactive_days": [],
                 "time_limit": 0,
                 "time_period": [
-                    0,
-                    2400
+                    830,
+                    1600
+                ]
+            },
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY"
+                ],
+                "inactive_days": [],
+                "time_limit": 0,
+                "time_period": [
+                    630,
+                    830
                 ]
             }
         ]
@@ -4994,16 +4786,28 @@
                     "TUESDAY",
                     "WEDNESDAY",
                     "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
+                    "FRIDAY"
                 ],
                 "inactive_days": [],
                 "time_limit": 0,
                 "time_period": [
-                    0,
-                    2400
+                    830,
+                    1600
+                ]
+            },
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY"
+                ],
+                "inactive_days": [],
+                "time_limit": 0,
+                "time_period": [
+                    630,
+                    830
                 ]
             }
         ]
@@ -5085,7 +4889,27 @@
             -157.86356615125857,
             21.31034160309763
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 1,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -5100,15 +4924,16 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
                     "SUNDAY",
                     "STATE HOLIDAYS"
                 ],
-                "inactive_days": [],
-                "time_limit": 0,
+                "time_limit": 1,
                 "time_period": [
-                    0,
-                    2400
+                    700,
+                    1800
                 ]
             }
         ]
@@ -5118,14 +4943,54 @@
             -157.8638435984985,
             21.310725094563974
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 1,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
             -157.8638998132988,
             21.310816321461402
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "SUNDAY",
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 1,
+                "time_period": [
+                    700,
+                    1800
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -5140,15 +5005,16 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
                     "SUNDAY",
                     "STATE HOLIDAYS"
                 ],
-                "inactive_days": [],
-                "time_limit": 0,
+                "time_limit": 1,
                 "time_period": [
-                    0,
-                    2400
+                    700,
+                    1800
                 ]
             }
         ]
@@ -5240,16 +5106,17 @@
                     "TUESDAY",
                     "WEDNESDAY",
                     "THURSDAY",
-                    "FRIDAY",
+                    "FRIDAY"
+                ],
+                "inactive_days": [
                     "SATURDAY",
                     "SUNDAY",
                     "STATE HOLIDAYS"
                 ],
-                "inactive_days": [],
                 "time_limit": 0,
                 "time_period": [
-                    0,
-                    2400
+                    630,
+                    1830
                 ]
             }
         ]
@@ -5266,26 +5133,7 @@
             -157.8638977322045,
             21.3124492879283
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -5299,26 +5147,7 @@
             -157.8641004418953,
             21.31283597379938
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -5408,16 +5237,13 @@
                     "TUESDAY",
                     "WEDNESDAY",
                     "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
+                    "FRIDAY"
                 ],
                 "inactive_days": [],
                 "time_limit": 0,
                 "time_period": [
-                    0,
-                    2400
+                    830,
+                    1530
                 ]
             }
         ]
@@ -5448,78 +5274,21 @@
             -157.86023642496426,
             21.311144044437746
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
             -157.8599868612502,
             21.310831831584213
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
             -157.8599868612502,
             21.310951402542685
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -5533,26 +5302,7 @@
             -157.86018294702552,
             21.311203829802082
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -5574,10 +5324,7 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS"
+                    "SATURDAY"
                 ],
                 "inactive_days": [],
                 "time_limit": 0,
@@ -5601,10 +5348,7 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS"
+                    "SATURDAY"
                 ],
                 "inactive_days": [],
                 "time_limit": 0,
@@ -5628,34 +5372,13 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS"
+                    "SATURDAY"
                 ],
                 "inactive_days": [],
                 "time_limit": 0,
                 "time_period": [
                     700,
                     1600
-                ]
-            },
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
                 ]
             }
         ]
@@ -5673,15 +5396,13 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
+                    "SATURDAY"
                 ],
                 "inactive_days": [],
                 "time_limit": 0,
                 "time_period": [
-                    0,
-                    2400
+                    700,
+                    1600
                 ]
             }
         ]
@@ -5698,52 +5419,14 @@
             -157.85964141404907,
             21.31152504083827
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
             -157.85953593356453,
             21.31139979785076
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -5820,52 +5503,14 @@
             -157.86111210924483,
             21.31136443538721
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
             -157.863960848627,
             21.313553019296943
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [
@@ -5894,10 +5539,7 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS"
+                    "SATURDAY"
                 ],
                 "inactive_days": [
                     "SUNDAY",
@@ -5931,10 +5573,7 @@
                     "WEDNESDAY",
                     "THURSDAY",
                     "FRIDAY",
-                    "SATURDAY",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS",
-                    "STATE HOLIDAYS"
+                    "SATURDAY"
                 ],
                 "inactive_days": [
                     "STATE HOLIDAYS"
@@ -5952,7 +5591,26 @@
             -157.86310256850436,
             21.309812382738155
         ],
-        "restriction_list": []
+        "restriction_list": [
+            {
+                "active_days": [
+                    "MONDAY",
+                    "TUESDAY",
+                    "WEDNESDAY",
+                    "THURSDAY",
+                    "FRIDAY",
+                    "SATURDAY"
+                ],
+                "inactive_days": [
+                    "STATE HOLIDAYS"
+                ],
+                "time_limit": 0,
+                "time_period": [
+                    700,
+                    1600
+                ]
+            }
+        ]
     },
     {
         "coordinates": [
@@ -5980,26 +5638,7 @@
             -157.8630114569421,
             21.309205643615087
         ],
-        "restriction_list": [
-            {
-                "active_days": [
-                    "MONDAY",
-                    "TUESDAY",
-                    "WEDNESDAY",
-                    "THURSDAY",
-                    "FRIDAY",
-                    "SATURDAY",
-                    "SUNDAY",
-                    "STATE HOLIDAYS"
-                ],
-                "inactive_days": [],
-                "time_limit": 0,
-                "time_period": [
-                    0,
-                    2400
-                ]
-            }
-        ]
+        "restriction_list": []
     },
     {
         "coordinates": [

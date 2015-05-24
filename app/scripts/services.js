@@ -15,6 +15,25 @@ angular.module('carma.services', [])
     }
   })
 
+  .factory('MockRestrictions', function($q) {
+    return {canPark: canPark};
+
+    function canPark() {
+      var results = [
+        {
+          restricted: false,
+          until: 2100
+        },
+        {
+          restricted: true,
+          until: 2100
+        }
+      ];
+
+      return $q.when((Math.random() < 0.5) ? results[0] : results[1]);
+    }
+  })
+
   .factory('Restrictions', function($http) {
     // Store resolved data so there's no need to refetch.
     var _data = $http.get('data/parking-restrictions.json');
