@@ -10,7 +10,9 @@ angular.module('carma.controllers', ['firebase'])
 
     var canPark = service.canPark(position.coords.latitude, position.coords.longitude);
     canPark.then(function (result) {
-      console.log(result);
+      if(result.restricted) {
+        document.querySelector('.carma').classList.add('disabled');
+      }
     });
 
     $scope.center = [position.coords.latitude, position.coords.longitude];

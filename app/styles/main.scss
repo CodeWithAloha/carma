@@ -27,6 +27,11 @@ $grey: #7D8C93;
       opacity: 1;
     }
   }
+  &.disabled {
+    .carma-timer {
+      background: $red;
+    }
+  }
   &-map {
       width: 100%;
       height: 100vh;
