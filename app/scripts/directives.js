@@ -41,12 +41,32 @@ var app = angular.module('carma.directives', ['firebase'])
   });
   app.directive('carmaTimer', function() {
     return function(scope, elm, attr)   {
-      var timeRemain = 60;
-      var timer = document.querySelector('.carma-timer-seconds');
-      timer.textContent = timeRemain;
+      var curr = moment();
+      var pm = moment('2015-05-23 21:00:00');
+      var timeRemain = pm.diff(curr);
+
+      var hours = document.querySelector('.carma-timer-hours');
+      var diffHours = pm.diff(curr, 'hours');
+      hours.textContent = diffHours;
+
+      var minutes = document.querySelector('.carma-timer-minutes');
+      var diffMinutes = pm.diff(curr, 'minutes') % 60;
+      minutes.textContent = diffMinutes;
+
+
+      var seconds = document.querySelector('.carma-timer-seconds');
+      seconds.textContent = pm.diff(curr, 'seconds') - (diffHours * 3600) - (diffMinutes * 60);
+
       setInterval(function(){
-        timeRemain--;
-        timer.textContent = timeRemain;
+        var curr = moment();
+        diffHours = pm.diff(curr, 'hours');
+        hours.textContent =  diffHours;
+
+        diffMinutes = pm.diff(curr, 'minutes') % 60;
+        minutes.textContent = diffMinutes;
+
+        var diffSeconds = pm.diff(curr, 'seconds');
+        seconds.textContent = pm.diff(curr, 'seconds') - (diffHours * 3600) - (diffMinutes * 60);
       }, 1000);
     }
   });

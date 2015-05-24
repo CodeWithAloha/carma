@@ -6,6 +6,7 @@
 
 $red: #FD7D5F;
 $blue: #AADDFD;
+$grey: #7D8C93;
 
 * {
   font-smoothing: always;
@@ -56,7 +57,7 @@ $blue: #AADDFD;
     width: 100%;
     height: 100vh;
     opacity: 0.8;
-    background: $blue;
+    background: $grey;
     z-index: 8;
     top: 0;
     left: 0;
