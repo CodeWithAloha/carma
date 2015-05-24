@@ -30,8 +30,7 @@ angular.module('carma.services', [])
         }
       ];
 
-      result = (Math.random() < 0.5) ? results[0] : results[1];
-      return $q.when(result);
+      return $q.when((Math.random() < 0.5) ? results[0] : results[1]);
     }
   })
 
