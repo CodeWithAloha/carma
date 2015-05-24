@@ -8,7 +8,7 @@ var app = angular.module('carma.directives', ['firebase'])
             .success(function(config) {
               L.mapbox.accessToken = config.access_token;
               scope.map = L.mapbox.map(elm[0], 'russellbvea.m8ni14il', {
-                  // zoomControl: false,
+                  zoomControl: false,
               });
               window.map = scope.map;
               var center = [21.31296713802774, -157.86324620246884];
@@ -24,6 +24,20 @@ var app = angular.module('carma.directives', ['firebase'])
 
         var ref = new Firebase('https://carma.firebaseio.com/checkins');
         scope.checkins = $firebaseArray(ref);
+
+        // angular.forEach(function(checkin) {
+        //     L.marker([checkin.latitude, checkin.longitude])
+        // });
+
+        scope.checkins.$watch(function(event) {
+          var checkin = scope.checkins.$getRecord(event.key);
+          console.log('checkin');
+          L.marker([checkin.latitude, checkin.longitude], {
+            icon: L.mapbox.marker.icon( {
+              'marker-color': 'AADDFD'
+            })
+          }).addTo(map);
+        });
 
         document.querySelector('.carma-timer-button').addEventListener('click', function() {
             document.querySelector('.carma').classList.add('drag');
