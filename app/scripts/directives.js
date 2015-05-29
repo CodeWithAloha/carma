@@ -56,7 +56,7 @@ var app = angular.module('carma.directives', ['firebase'])
   app.directive('carmaTimer', function() {
     return function(scope, elm, attr)   {
       var curr = moment();
-      var pm = moment('2015-05-23 21:00:00');
+      var pm = moment('2015-05-29 17:00:00');
       var timeRemain = pm.diff(curr);
 
       var hours = document.querySelector('.carma-timer-hours');
