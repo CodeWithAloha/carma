@@ -39,14 +39,22 @@ var app = angular.module('carma.directives', ['firebase'])
           }).addTo(map);
         });
 
+        var carmaPoints = 100; // Initial value of Carma point counter sitting ugly
+        function carmaPointTicker(){
+          carmaPoints += 10;
+          document.querySelector('.carma-points').innerHTML = carmaPoints + " carma";
+        }
+
         document.querySelector('.carma-timer-button').addEventListener('click', function() {
             document.querySelector('.carma').classList.add('drag');
+            carmaPointTicker();
             scope.checkins.$add({
               latitude: $rootScope.center[0],
               longitude: $rootScope.center[1],
               timestamp: Firebase.ServerValue.TIMESTAMP
             });
         });
+
         document.querySelector('.carma-map-close').addEventListener('click', function() {
             document.querySelector('.carma').classList.remove('drag');
         });
